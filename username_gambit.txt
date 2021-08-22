@@ -1,0 +1,20 @@
+Instagram:
+	https://www.instagram.com/{username}/
+
+Reddit:
+	https://www.reddit.com/user/{username}/
+
+Steam:
+	https://steamcommunity.com/id/{username}/
+
+Twitter:
+	https://twitter.com/{username}
+
+Twitch:
+	https://www.twitch.tv/{username}
+	
+Pastebin:
+	https://pastebin.com/u/{username}
+
+Namecheap Search:
+	https://www.namecheap.com/domains/registration/results/?domain={username}
