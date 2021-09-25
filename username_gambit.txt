@@ -18,3 +18,8 @@ Pastebin:
 
 Namecheap Search:
 	https://www.namecheap.com/domains/registration/results/?domain={username}
+
+Quizlet:
+	https://www.quizlet.com/{username}
+
+
