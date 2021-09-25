@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 const igBase = 'https://www.instagram.com/'
 const redditBase = 'https://www.reddit.com/user/'
 const steamBase = 'https://steamcommunity.com/id/'
@@ -9,3 +10,6 @@ const ncBase = 'https://www.namecheap.com/domains/registration/results/?domain='
 function pullUserRequest () {
 
 }
+=======
+
+>>>>>>> Stashed changes
